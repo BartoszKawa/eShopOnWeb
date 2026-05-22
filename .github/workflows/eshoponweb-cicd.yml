@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-devOps-eshopeonweb-2238763
   LOCATION: canadacentral
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: rg-devOps-eshopeonweb-2238763c
+  SUBSCRIPTION-ID: bbc0ce4a-100f-41e4-976f-9c377dc58a6b
   WEBAPP-NAME: eshoponweb-webapp-2238763
 
 
